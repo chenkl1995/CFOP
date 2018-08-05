@@ -1,20 +1,20 @@
 # PLL(Permutation of the Last Layer)
 ------
 
-* ####EPLL `Permutations of Edges Only`  
+* #### EPLL `Permutations of Edges Only`  
 
 	![H.gif](gif/PLL/H.gif "H Permutation")
 	![Z.gif](gif/PLL/Z.gif "Z Permutation")
 	![U逆.gif](gif/PLL/U1.gif "U逆 Permutation")
 	![U顺.gif](gif/PLL/U.gif "U顺 Permutation")
 	
-* ####CPLL `Permutations of Corners Only`
+* #### CPLL `Permutations of Corners Only`
  
 	![A逆.gif](gif/PLL/A.gif "A逆 Permutation")
 	![A顺.gif](gif/PLL/A1.gif "A顺 Permutation")
 	![E.gif](gif/PLL/E.gif "E Permutation")
 
-* ####`Permutations of Edges and Corners`
+* #### `Permutations of Edges and Corners`
  
 	![T.gif](gif/PLL/T.gif "T Permutation")
 	![F.gif](gif/PLL/F.gif "F Permutation")
